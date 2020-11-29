@@ -1,0 +1,108 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+
+ seen 64, trained: 256 K-images (4 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/xCukS6t8.jpg: Predicted in 32.354000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/oyFkPo92.jpg: Predicted in 32.476000 milli-seconds.
+car_BrakeOff: 57%	(left_x:  112   top_y:  613   width:  275   height:  127)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/2S6vzNgZ.jpg: Predicted in 32.416000 milli-seconds.
+car_BrakeOn: 94%	(left_x:  550   top_y:  690   width:  690   height:  341)
+car_BrakeOff: 85%	(left_x: 1449   top_y:  712   width:  283   height:  178)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/d9LxG3sm.jpg: Predicted in 32.404000 milli-seconds.
+car_BrakeOff: 77%	(left_x: 1156   top_y:  672   width:  226   height:  164)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/CFEtmBKB.jpg: Predicted in 32.604000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/z2dwB5wY.jpg: Predicted in 32.219000 milli-seconds.
+car_BrakeOn: 67%	(left_x: 1196   top_y:  729   width:  155   height:  102)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/GgJGQVrL.jpg: Predicted in 32.256000 milli-seconds.
+car_BrakeOff: 54%	(left_x:  700   top_y:  787   width:  300   height:  185)
+car_BrakeOff: 55%	(left_x: 1164   top_y:  813   width:  187   height:  168)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/cm31wRuX.jpg: Predicted in 32.622000 milli-seconds.
+car_BrakeOff: 60%	(left_x:  796   top_y:  584   width:  154   height:  132)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/4q3ve9l3.jpg: Predicted in 32.444000 milli-seconds.
+car_BrakeOn: 66%	(left_x:  756   top_y:  592   width:  328   height:  246)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/q8JprvPZ.jpg: Predicted in 32.540000 milli-seconds.
+car_BrakeOff: 59%	(left_x: 1269   top_y:  703   width:   81   height:   54)
+car_BrakeOff: 68%	(left_x: 1953   top_y:  677   width:  328   height:  183)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/8Fv1uGhf.jpg: Predicted in 32.273000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/5mQCFnhV.jpg: Predicted in 32.458000 milli-seconds.
+car_BrakeOff: 84%	(left_x: 1390   top_y:  723   width:   55   height:   32)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/tvge5ufA.jpg: Predicted in 32.522000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/Q8LRFqoc.jpg: Predicted in 32.338000 milli-seconds.
+car_BrakeOn: 66%	(left_x:  848   top_y:  599   width:  110   height:   69)
+car_BrakeOn: 73%	(left_x: 1019   top_y:  595   width:  146   height:   84)
+car_BrakeOn: 59%	(left_x: 1099   top_y:  491   width:  425   height:  301)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/aJSOjmP7.jpg: Predicted in 32.438000 milli-seconds.
+car_BrakeOff: 60%	(left_x:  714   top_y:  828   width:  184   height:  101)
+car_BrakeOff: 62%	(left_x: 1086   top_y:  832   width:  317   height:  198)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/Bwc3Abyi.jpg: Predicted in 32.540000 milli-seconds.
+car_BrakeOn: 73%	(left_x:  973   top_y:  765   width:  139   height:   85)
+car_BrakeOn: 74%	(left_x: 1204   top_y:  776   width:  102   height:   76)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/q8Ed9c3S.jpg: Predicted in 32.378000 milli-seconds.
+car_BrakeOn: 84%	(left_x: 1126   top_y:  643   width:  329   height:  322)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/CzP6u1yA.jpg: Predicted in 32.598000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/tMsQ7vby.jpg: Predicted in 32.429000 milli-seconds.
+car_BrakeOn: 57%	(left_x:  792   top_y:  592   width:  205   height:  173)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/test/MaVRtDdl.jpg: Predicted in 32.484000 milli-seconds.
+car_BrakeOff: 61%	(left_x:  825   top_y:  609   width:   87   height:   64)
+car_BrakeOff: 57%	(left_x:  942   top_y:  602   width:   82   height:   52)
+Enter Image Path: 

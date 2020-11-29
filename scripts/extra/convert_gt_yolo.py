@@ -24,7 +24,7 @@ def convert_yolo_coordinates_to_voc(x_c_n, y_c_n, width_n, height_n, img_width, 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # read the class_list.txt to a list
-with open("class_list.txt") as f:
+with open("classes.txt") as f:
   obj_list = f.readlines()
 ## remove whitespace characters like `\n` at the end of each line
   obj_list = [x.strip() for x in obj_list]
@@ -55,11 +55,11 @@ for tmp_file in txt_list:
   image_name = tmp_file.split(".txt",1)[0]
   #print(image_name)
   ## check if image exists
-  for fname in os.listdir('../images'):
+  for fname in os.listdir('../images-optional'):
     if fname.startswith(image_name):
       ## image found
       #print(fname)
-      img = cv2.imread('../images/' + fname)
+      img = cv2.imread('../images-optional/' + fname)
       ## get image width and height
       img_height, img_width = img.shape[:2]
       break
